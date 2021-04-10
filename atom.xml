@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>11号浮游岛</title>
+  <icon>https://www.gravatar.com/avatar/108f9528295f94932cf92f57fdc8e380</icon>
   
+  <link href="https://chen-jialin.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
-  
-  <link href="http://example.com/"/>
+  <link href="https://chen-jialin.github.io/"/>
   <updated>2021-04-08T14:15:33.943Z</updated>
-  <id>http://example.com/</id>
+  <id>https://chen-jialin.github.io/</id>
   
   <author>
-    <name>John Doe</name>
-    
+    <name>Chen Jialin</name>
+    <email>chenjl@shanghaitech.edu.cn</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2021/04/08/hello-world/"/>
-    <id>http://example.com/2021/04/08/hello-world/</id>
+    <link href="https://chen-jialin.github.io/202104/hello-world/"/>
+    <id>https://chen-jialin.github.io/202104/hello-world/</id>
     <published>2021-04-08T14:15:33.943Z</published>
     <updated>2021-04-08T14:15:33.943Z</updated>
     
